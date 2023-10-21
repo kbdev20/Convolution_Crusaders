@@ -1,5 +1,6 @@
 # Convolution_Crusaders - Automated Vessel Detection in Satellite Imagery
-![Convolution Crusaders Logo](logo.png)
+<img src="logo.png" alt="drawing" width="200"/>
+
 **Team Members:**
 - Fábián Csenge (KGM10V)
 - Faluvégi Ármin (WYL4R7)
