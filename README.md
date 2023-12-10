@@ -32,7 +32,7 @@ While there have been commendable advances in leveraging satellite imagery for o
 To reproduce our solution, follow these steps:
 
 ### 1. Access the Shared Google Drive Folder:
-- Navigate to the shared folder [data4](https://drive.google.com/drive/folders/1hYe7QkSBkYvLi3skmBat5-dw1-QkhA_d?usp=sharing) on Google Drive.
+- Navigate to the shared folder [dataa](https://drive.google.com/drive/folders/1nbnWUDDV68Y9KYsXB0Sjz1fs6-UJLqbu?usp=drive_link) on Google Drive.
    Right-click on the ‘data4’ folder.
 - Select ‘Add shortcut to Drive’.
 - Choose ‘My Drive’ and click ‘Add Shortcut’.
