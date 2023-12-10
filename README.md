@@ -28,6 +28,22 @@ By amalgamating specialized datasets with analytical prowess, our goal is to off
 
 While there have been commendable advances in leveraging satellite imagery for object detection in the past decade, their real-world application has been somewhat restrictive. Our project aims to bridge this gap, enhancing the accuracy and speed of automated ship detection.
 
+## 🛠️ Reproducing the Solution:
+To reproduce our solution, follow these steps:
+
+### 1. Access the Shared Google Drive Folder:
+- Navigate to the shared folder [data4](https://drive.google.com/drive/folders/1hYe7QkSBkYvLi3skmBat5-dw1-QkhA_d?usp=sharing) on Google Drive.
+   Right-click on the ‘data4’ folder.
+- Select ‘Add shortcut to Drive’.
+- Choose ‘My Drive’ and click ‘Add Shortcut’.
+
+### 2. Mount Google Drive in Colab
+- Run the provided script in the first code cell of the Colab notebook to mount your Google Drive.
+- Follow the on-screen instructions to authorize access.
+
+### 3. Execute the Colab Notebook:
+- Execute the code cells in the Colab notebook sequentially.
+  
 ---
 
 ## 📚 References:
